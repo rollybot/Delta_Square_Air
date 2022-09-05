@@ -1,4 +1,4 @@
-# Delta Square V0
+# Delta Square Air
 simple and light weight basic Delta 3D printer.
 You can find the BOM and some parts for this printer at www.rollybot.com website.
 
