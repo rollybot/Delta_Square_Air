@@ -2,7 +2,7 @@
 simple and light weight basic Delta 3D printer.
 You can find the BOM and some parts for this printer at www.rollybot.com website.
 
-![Delta Square v0 7](https://user-images.githubusercontent.com/5675424/154282448-639e7b6c-9197-416c-91ab-82c23540a94b.jpg)
+![image](https://github.com/rollybot/Delta_Square_Air/assets/5675424/4da9c83a-24ee-4c86-aac7-d4c9fe09caa4)
 The current revision is V1.0.
 
 ## Highlights
